@@ -1,4 +1,4 @@
-function dst= q uantization(src,bits)
+function dst= quantization(src,bits)
 %QUANTIZATION reduce the number of levels in the image.
 %   QUANTIZATION(SRC,BITS) reduce the number of levels from 2^_channels_^8
 %   to 2^_channels_^BITS.
